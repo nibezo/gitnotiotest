@@ -1,1 +1,1 @@
-is it a commit?
+`Hello, GitNotion`
