@@ -11,5 +11,5 @@ y = np.amax(list)
 
 ```python
 # matrix with zeros
-m = np.zeros((2, 3))
+m = np.zeros((2, 4))
 ```
