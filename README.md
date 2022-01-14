@@ -1,2 +1,2 @@
 # gitnotiotest
-This's example of [GitNotio](https://github.com/nibezo/GitNotio) work. 
+This's an example of [GitNotio](https://github.com/nibezo/GitNotio) work. 
